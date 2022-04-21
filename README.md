@@ -1,4 +1,4 @@
-# Natural Language Processing Training
+# Natural Language Processing and Text Mining Training
 
 <br><br>
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
